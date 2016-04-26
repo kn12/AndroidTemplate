@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Template.iml" filepath="$PROJECT_DIR$/Template.iml" />
+      <module fileurl="file://$PROJECT_DIR$/connectPC/connectPC.iml" filepath="$PROJECT_DIR$/connectPC/connectPC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/framework/framework.iml" filepath="$PROJECT_DIR$/framework/framework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/templateAndroid/templateAndroid.iml" filepath="$PROJECT_DIR$/templateAndroid/templateAndroid.iml" />
+    </modules>
+  </component>
+</project>
